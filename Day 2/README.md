@@ -5,4 +5,4 @@ For Example:
 
 153 = 1+125+27 = 153 , It is a Armstrong Number
 
-152 = 1+125+8 = 134 , it is not a Armstrong Number
+152 = 1+125+8 = 134 , It is not a Armstrong Number
