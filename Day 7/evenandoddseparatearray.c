@@ -43,3 +43,4 @@ Element 8: 9
 Element 9: 10
 Even numbers in the array: 2 4 6 8 10 
 Odd numbers in the array: 1 3 5 7 9 
+*/
